@@ -16,7 +16,7 @@
 - Implemented design patterns with React useState, useEffect, forwardREf and useImperativeHandle
 
 ### Backend 
-- Devolped backend functionality and API with MongoDB, Node, Express and Mongooose
+- Developed backend functionality and API with MongoDB, Node, Express and Mongooose
 - Implemented backend functionality to post new blogs, add new users, and delete blogs only for the user that created the blog intially through token auth. 
 - Implemented password token authentication with bycrpt and jsonwebtokens
 - Conducted backend testing with Postman, Jest and end to end testing with Cypress.
